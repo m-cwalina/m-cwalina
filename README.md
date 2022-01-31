@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GolfBerlin**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript/React.JS**
 
 - 💬 Ask me about **Ruby/Ruby on Rails**
 
