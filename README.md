@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt Cwalina</h1>
+<h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A Full-Stack Web Developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cwalina&label=Profile%20views&color=0e75b6&style=flat" alt="m-cwalina" /> </p>
