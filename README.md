@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cwalina&label=Profile%20views&color=0e75b6&style=flat" alt="m-cwalina" /> </p>
 
-- 🔭 I’m currently working on **ConnectGolf**
+- 🔭 I’m currently working on **ForteFans**
 
-- 🌱 I’m currently learning **Javascript/React.JS**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Ruby/Ruby on Rails**
+- 💬 Ask me about **Ruby, Ruby on Rails, Redux ToolKit, Javascript**
 
 - 📫 How to reach me **matthewcwalina@gmail.com**
 
