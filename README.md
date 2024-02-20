@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A Full-Stack Web Developer from California</h3>
+<h1 align="center">Matthew Cwalina</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cwalina&label=Profile%20views&color=0e75b6&style=flat" alt="m-cwalina" /> </p>
 
-- 🔭 I’m currently working on **ForteFans**
+- 🔭 I’m currently working at **Eshop-Guide**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Shopify Ecosystem**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, Redux ToolKit, Javascript**
+- 💬 Experience - **Ruby, Ruby on Rails, React Redux, Javascript**
 
 - 📫 How to reach me **matthewcwalina@gmail.com**
 
