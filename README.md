@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Eshop-Guide**
 
-- 🌱 I’m currently learning **Shopify Ecosystem**
+- 🌱 I’m currently learning **Shopify**
 
 - 💬 Experience - **Ruby, Ruby on Rails, React Redux, Javascript**
 
